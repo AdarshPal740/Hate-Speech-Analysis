@@ -7,6 +7,8 @@ The main aim of this project is to classify tweets in three classes:<br>
 You can download dataset from <a href='https://github.com/AdarshPal740/Twitter-Hate-Speech-Analysis-Against-Women/blob/master/twitter.csv'>this</a> link. This dataset contains 24783 rows and  7 columns.
 # dataset understanding
 <p><b>Top 20 most frequent words per label<b></p>
-  <img src="/home/adarsh/Desktop/Twitter Hate Speech/Screenshot from 2022-06-27 19-15-46.png">
+  <img src="/visualization/frequent_words.png"><br>
+  <p><b>Most popular hashtags of each tweet type<b></p>
+    <img src="/visualization/hastag">
   
   
